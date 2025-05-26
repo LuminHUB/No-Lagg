@@ -1,2 +1,1 @@
-wait("0.2")
 loadstring(game:HttpGet("https://paste.ee/r/xOpAxc6T"))()
